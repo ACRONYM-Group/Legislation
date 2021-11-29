@@ -20,7 +20,7 @@ Counting of votes cast in a rank choice system will be done by finding the maxim
 The counting of the votes for any element of the election of the President of ACRONYM requires there be one member of the Nymphery and one Nome to each separately count the ballots. If there is a disagreement regarding the final count, two other members will be delegated to perform a recount.
 
 ### Article 1 Section 3; Who
-To add a new member to A.C.R.O.N.Y.M there must be a ⅔ majority of the Nymphs and then a unanimous vote of the Nomes. If this vote is passed, then the member is added to the nymphery.
+To add a new member to A.C.R.O.N.Y.M there must be a ⅔ majority of the Nymphs. If this vote is passed, then the member is added to the nymphery.
 
 #### Article 1 Section 3 Subsection 1
 An application to speak in front of the ACRONYM group must not be negated by race, gender, ethnicity, or age. If we accept a female to the group we will change the acronym of A.C.R.O.N.Y.M to A Corrupt Regimen Of Nerdy Young Mammals.
