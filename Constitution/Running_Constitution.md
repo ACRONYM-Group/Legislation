@@ -52,7 +52,7 @@ Any and all constitutional amendments that have been rejected or vetoed by the C
 Announcing and subsequently ensuring the fulfilment of any goals of the meeting that were described in the announcement of the meeting on the first Saturday of every month, such as activities or events.
 
 ### Article 2 Section 3; Appointments
-#### Article 2 Section 2 Subsection 1; Appointment of the Scribe
+#### Article 2 Section 3 Subsection 1; Appointment of the Scribe
 The President of ACRONYM is required to appoint a member of ACRONYM to be the scribe for the duration of their term or as long as said appointee is held in good standing by the majority of the Council of Nomes within one week of being elected to the Office of President. The appointment of a Scribe must be accepted by a unanimous vote of the Council of Nomes.
 
 The Scribe is expected to keep minutes of all ACRONYM meetings and is the designated records keeper and is allowed to hold join roles as long as any other role which they hold does not conflict with their duties as Scribe.
