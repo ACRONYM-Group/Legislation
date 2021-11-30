@@ -1,4 +1,4 @@
- # The Constitution of Nerdiness TEST
+ # The Constitution of Nerdiness
 
 `
 We are founded upon the idea that a nerd with expertise in but one subject will fail to see the world with the same clarity that a group with many interests can, and together we can conceive of and perfect ideas through teamwork, and differing proficiencies.
