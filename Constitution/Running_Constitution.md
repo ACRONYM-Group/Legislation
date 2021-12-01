@@ -55,16 +55,16 @@ The Office of the President can make appointments to the offices detailed in Art
 ### Article 2 Section 2; Responsibilities
 #### Article 2 Section 2 Subsection 1; Planning Meetings
 The Office of the President is required to announce upcoming meetings one week before the constitution’s goal date which is the second Saturday of every month. This announcement must be in a place that is proper for announcements that is visible to all ACRONYM’s members, and the announcement must include the following:
-The calendar date of the meeting
-A headcount to determine if a quorum can attend the meeting on the constitution’s goal date
-A basic description of the goal of the meeting. 
-If the headcount determines that less than a quorum of ACRONYM’s members are able to attend the meeting, then the President is required to schedule a meeting such that a quorum is able to attend the meeting.
+##### The calendar date of the meeting
+##### A headcount to determine if a quorum can attend the meeting on the constitution’s goal date
+##### A basic description of the goal of the meeting. 
+##### If the headcount determines that less than a quorum of ACRONYM’s members are able to attend the meeting, then the President is required to schedule a meeting such that a quorum is able to attend the meeting.
 	
 #### Article 2 Section 2 Subsection 2; Presiding over Meetings
 The Office of President is required to preside over every monthly meeting, as well as any meeting that they summon such that the meeting accomplishes all of the following:
-Any and all constitutional amendments that have been passed by the Council of Nomes are announced and described to the attending members
-Any and all constitutional amendments that have been rejected or vetoed by the Council of Nomes are announced and described to the attending members
-Announcing and subsequently ensuring the fulfilment of any goals of the meeting that were described in the announcement of the meeting on the first Saturday of every month, such as activities or events.
+##### Any and all constitutional amendments that have been passed by the Council of Nomes are announced and described to the attending members
+##### Any and all constitutional amendments that have been rejected or vetoed by the Council of Nomes are announced and described to the attending members
+##### Announcing and subsequently ensuring the fulfilment of any goals of the meeting that were described in the announcement of the meeting on the first Saturday of every month, such as activities or events.
 
 ### Article 2 Section 3; Appointments
 #### Article 2 Section 3 Subsection 1; Appointment of the Scribe
