@@ -9,7 +9,7 @@ We are founded upon the idea that a nerd with expertise in but one subject will 
 A meeting of A.C.R.O.N.Y.M. is held at least once a month tentatively scheduled for the second Saturday of every month, or when a member of the council of Nomes calls one. A lack of a quorum of at least half of the Nymphs and two of the Nomes prevents official action from being taken at a meeting. Each meeting is labeled by the meeting number and the session number. Sessions start on the second Saturday of July, starting with Session 0 starting on July 16th 2016. A new session marks an election for president.
 
 ### Article 1 Section 2; What
-Elections for the next President of ACRONYM will occur on the first meeting of a session or the first meeting held with a quorum of at least half of the voting body present. The election will start with a vote of all members of ACRONYM via rank choice voting. The top three candidates are selected as the members of the Council of Nomes. If there is a tie which results in there not being a clear top three, those who would be in the Council and those involved in the tie will be put on a runoff ballot to determine the top three. 
+Elections for the next President of ACRONYM will occur on the first meeting of a session or the first meeting held with a quorum of at least half of the voting body present. The election will start with a vote of all members of ACRONYM via rank choice voting. The top three candidates are selected as the members of the Council of Nomes.
 
 Once the Council of Nomes has been selected there is a second rank choice vote among the members of the Council of Nomes, the top candidate in this vote will be the President of ACRONYM for the next Session.
 
@@ -17,7 +17,18 @@ Once the Council of Nomes has been selected there is a second rank choice vote a
 Counting of votes cast in a rank choice system will be done by finding the maximum rank labeled on a ballot, adding one to this value results in the number of tallies allocated to the candidate ranked first by each voter. If a voter elected to only vote for one candidate it is assumed that this vote is a first rank vote. The second rank will be given the tally count of first rank minus one, and so on to find the score for every subsequent rank.
 
 #### Article 1 Section 2 Subsection 2; Supervision
-The counting of the votes for any element of the election of the President of ACRONYM requires there be one member of the Nymphery and one Nome to each separately count the ballots. If there is a disagreement regarding the final count, two other members will be delegated to perform a recount.
+The counting of the votes for any element of the election of the President of ACRONYM or the council of nomes requires there be one member of the Nymphery and one Nome to each separately count the ballots. If there is a disagreement regarding the final count, two other members will be delegated to perform a recount.
+
+#### Article 1 Section 2 Subsection 3; Tiebreakers
+If during the course of the election for the council of Nomes, there is a tie which results in there not being a clear top three, those who would be in the Council and those involved in the tie will be put on a runoff ballot to determine the top three. This second vote shall follow the same rules and processes as the first.
+
+If during the course of the presidential election, there is a tie that results in there not being a clear top candidate, then a second vote shall be conducted among the top two candidates. In the event that there is a three way tie during the presidential election, the candidate who totalled the least number of votes during the Council election shall be disqualified.
+
+#### Article 1 Section 2 Subsection 4; Ambiguity, Edge Cases and Brevity of Rules
+If during any council or presidential voting process, there is disagreement as how the rules set forth in this document should be interpreted, or as to who the winning candidate is, the current sitting Council of Nomes shall come to a majority agreement on what course of action should be taken to decide the vote. This course of action should be formalized, and presented to the Nymphery were a formal vote shall be conducted to accept or deny.
+
+This document could not possibly account for or predict all future issues that may arise. As such it cannot reasonably govern those issues. Instead it is suggested that the voting body of ACRONYM work together with empathy and understanding, that disagreements be settled in a civil manner, and above all else that the core values of Nerdiness and diversity of experience be upheld in whatever decision is made.
+
 
 ### Article 1 Section 3; Who
 To add a new member to A.C.R.O.N.Y.M there must be a ⅔ majority of the Nymphs and then a unanimous vote of the Nomes. If this vote is passed, then the member is added to the nymphery.
@@ -29,14 +40,18 @@ An application to speak in front of the ACRONYM group must not be negated by rac
 ### Article 2 Section 1; Powers
 #### Article 2 Section 1 Subsection 1; Vetoes
 The President of ACRONYM is granted the power to override bills passed by the council of Nomes. However if this power is executed the vote then goes to the nymphery, with an affirmative yea, neh vote of 66% or more, the bill will still be enacted. 
+
 #### Article 2 Section 1 Subsection 2; Summoning
 The President of ACRONYM is granted the power to call a meeting of ACRONYM at any time, however they are also granted the power to summon the Council of Nomes. If a Nome or Nymph wishes there to be a congregation of the Council of Nomes, the request must go through the President, or be voted for with an affirmative yea, neh vote of 50% or more.
+
 #### Article 2 Section 1 Subsection 3; Committee Formation
 The President of ACRONYM is granted the power to spin up a committee for planning an ACRONYM project, assessing a potential action, and executing said action. To spin up a committee the president must write a bill announcing the committee. In this bill the president must detail which members constitute a committee upon formation, what format a report is expected in, what the committee’s assignment in detail, and an expected completion date for the committee’s assignment. The president may include himself in the committee’s membership upon formation. This bill must be sent to the Council of Nomes for a vote of approval requiring a majority of the Council of Nomes approve the bill before it may be announced to the Nymphery.
 
 Any committee which is spun up by the President of ACRONYM is to report their findings or conclusion to the Council of Nomes and subsequently, no less than one day later to the Nymphery. Any committee member is free to invite other nymphs to become a member of the committee. Once a committee’s assignment is completed they may submit a report to the Council of Nomes in any way deemed appropriate, but are compelled to give consideration to the president’s expected report format.
+
 #### Article 2 Section 1 Subsection 4; Appointments
 The Office of the President can make appointments to the offices detailed in Article 2 Section 3. The President is allowed to appoint any member of ACRONYM to any office wished unless they have already been appointed in a different capacity, unless the appointment specifically allows appointments that have already been appointed in different capacities.
+
 ### Article 2 Section 2; Responsibilities
 #### Article 2 Section 2 Subsection 1; Planning Meetings
 The Office of the President is required to announce upcoming meetings one week before the constitution’s goal date which is the second Saturday of every month. This announcement must be in a place that is proper for announcements that is visible to all ACRONYM’s members, and the announcement must include the following:
