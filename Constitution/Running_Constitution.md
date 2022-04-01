@@ -38,7 +38,7 @@ No Nymph may be discriminated against in any manner based on an individual's:
 * political affiliation.
 
 ##### Article 1 Section 2 Subsection 1 Clause 2; Powers
-A Nymph may purpose bills amending the Constitution of Nerdiness.
+A Nymph may propose bills that amend the Constitution of Nerdiness.
 
 A Nymph may request that the President of A.C.R.O.N.Y.M. congregate the Council of Nomes for any reason. 
 
@@ -51,13 +51,13 @@ All Nymphs must be given access to the private A.C.R.O.N.Y.M. legislation github
 Nymphs are required to attend one monthly meeting yearly, or they will lose their status as a Nymph.
 
 In any A.C.R.O.N.Y.M. media or communication channels:
-* Never using slurs or other deragatory terminology
-* Censoring the usage of profane words higher than a mild level as defined in the Ofcam's ranking of swear words
-* Be their best nerdy self.
+* Never use slurs or other derogatory terminology
+* Censor the usage of profane words higher than a mild level as defined in the Ofcom's ranking of swear words
+* Be your best nerdy self.
 
 
 ### Article 1 Section 3; The Council of Nomes
-Members of the Council of Nomes maintain the order of the organization. The Council of Nomes is comprised of a number of Nymphs equal to log base two of the total count of the Nymphery, rounded down to the nearest whole number.
+Members of the Council of Nomes maintain the order of the organization. The Council of Nomes consists of a number of Nymphs equal to log base two of the total count of the Nymphery, rounded down to the nearest whole number.
 
 #### Article 1 Section 3 Subsection 1; Powers
 A Member of the Council of Nomes may call for a meeting of A.C.R.O.N.Y.M. for any purpose.
@@ -83,10 +83,10 @@ The President of A.C.R.O.N.Y.M. is a singular Nymph who is responsible for picki
 The President of A.C.R.O.N.Y.M. may veto bills and amendments passed by the council of Nomes. When a bill or amendment is vetoed the Council of Nomes calls for a congregation of the Nymphery, and the vetoed bill is voted on by the Nymphery with a yea, neh vote. If the vote passes with an affirmative count totaling sixty six percent of the Nymphery, then the veto is over-ruled and the bill is enacted.
 
 ##### Article 1 Section 4 Subsection 1 Clause 2; Summoning
-The President of A.C.R.O.N.Y.M. may to call a meeting of the Nymphery, or the Council of Nomes at any time for any purpose.
+The President of A.C.R.O.N.Y.M. may call a meeting of the Nymphery, or the Council of Nomes at any time for any purpose.
 
 ##### Article 1 Section 4 Subsection 1 Clause 3; Committee Formation
-The President of A.C.R.O.N.Y.M. may spin up a committee for any reason. To spin up a committee the President of A.C.R.O.N.Y.M. must submit a bill with the purpose of the committee, the members of the Nymphery involved, the committee's expected report format, and a due date for the report submission. The President must then call for a congregation of the Council of Nomes to conduct a yea, neh vote. If the vote passes with an affirmative majority of the Council of Nomes, then the bill is submitted to the Nymphery publicly, and the members of the of the committee are made aware that they are members of a committee.
+The President of A.C.R.O.N.Y.M. may spin up a committee for any reason. To spin up a committee the President of A.C.R.O.N.Y.M. must submit a bill with the purpose of the committee, the members of the Nymphery involved, the committee's expected report format, and a due date for the report submission. The President must then call for a congregation of the Council of Nomes to conduct a yea, neh vote. If the vote passes with an affirmative majority of the Council of Nomes, then the bill is submitted to the Nymphery publicly, and the members of the committee are made aware that they are members of a committee by the president.
 
 Any committee which is spun up by the President of A.C.R.O.N.Y.M. is to report their findings or conclusion to the Council of Nomes and subsequently, no less than one day later, to the Nymphery. Any committee member is free to invite any other Nymph to join the committee. Once a committee’s assignment is completed they may submit a report to the Council of Nomes in any way deemed appropriate, but are compelled to give consideration to the President’s expected report format.
 
@@ -110,13 +110,13 @@ The Office of President is required to preside over every monthly meeting, as we
 * Fulfill any goals other goals for the meeting that were described previously when the meeting was announced.
 
 #### Article 1 Section 4 Subsection 3; Appointments
-The President of A.C.R.O.N.Y.M. must not leave any of the offices within its cabinet empty for any reason, or not attempt to appoint a Nymph to every empty position within its cabinet, for period of time longer than a week.
+The President of A.C.R.O.N.Y.M. must not leave any of the offices within its cabinet empty for any reason, or not attempt to appoint a Nymph to every empty position within its cabinet, for a period of time longer than a week.
 
 ##### Article 1 Section 4 Subsection 3 Clause 1; Office of the Head Scribe
 
 To appoint to the office of the Head Scribe of A.C.R.O.N.Y.M. the President of A.C.R.O.N.Y.M. must nominate a Nymph, and then congregate the Council of Nomes to conduct a yea, neh vote. If the vote passes unanimously, then the Presidentially nominated Nymph is appointed to the office of the Head Scribe.
 
-The Head Scribe is expected to keep minutes of all A.C.R.O.N.Y.M. meetings and is the designated records keeper, and act as an advisor to the President and the Council on matters of the Constitution and otherwise.
+The Head Scribe is expected to keep minutes of all A.C.R.O.N.Y.M. meetings and is the designated records keeper, and acts as an advisor to the President and the Council on matters of the Constitution and otherwise.
 
 The Head Scribe may hold positions in other offices.
 
@@ -127,7 +127,7 @@ The Head Scribe may hold positions in other offices.
 A meeting of A.C.R.O.N.Y.M. is held at least once a month tentatively scheduled for the second Saturday of every month, or when a member of the council of Nomes calls one. A lack of a quorum of at least half of the Nymphs and two of the Nomes prevents official action from being taken at a meeting. Each meeting is labeled by the meeting number and the session number. Sessions start on the second Saturday of July, starting with Session 0 starting on July 16th 2016. A new session marks an election for president.
 
 ### Article 2 Section 2; What
-Elections for the next President of A.C.R.O.N.Y.M. will occur on the first meeting of a session or the first meeting held with a quorum of at least half of the voting body present. The election will start with a vote of all members of A.C.R.O.N.Y.M. via rank choice voting. The top three candidates are selected as the members of the Council of Nomes.
+Elections for the next President of A.C.R.O.N.Y.M. will occur on the first meeting of a session, or the first meeting held with a quorum of at least half of the voting body present while the office of president is vacant. The election will start with a vote of all members of A.C.R.O.N.Y.M. via rank choice voting. The top three candidates are selected as the members of the Council of Nomes.
 
 Once the Council of Nomes has been selected there is a second rank choice vote among the members of the Council of Nomes, the top candidate in this vote will be the President of A.C.R.O.N.Y.M. for the next Session.
 
@@ -143,7 +143,7 @@ If during the course of the election for the council of Nomes, there is a tie wh
 If during the course of the presidential election, there is a tie that results in there not being a clear top candidate, then a second vote shall be conducted among the top two candidates. In the event that there is a three way tie during the presidential election, the candidate who totalled the least number of votes during the Council election shall be disqualified.
 
 #### Article 2 Section 2 Subsection 4; Ambiguity, Edge Cases and Brevity of Rules
-If during any council or presidential voting process, there is disagreement as how the rules set forth in this document should be interpreted, or as to who the winning candidate is, the current sitting Council of Nomes shall come to a majority agreement on what course of action should be taken to decide the vote. This course of action should be formalized, and presented to the Nymphery were a formal vote shall be conducted to accept or deny.
+If during any council or presidential voting process, there is disagreement as to how the rules set forth in this document should be interpreted, or as to who the winning candidate is, the current sitting Council of Nomes shall come to a majority agreement on what course of action should be taken to decide the vote. This course of action should be formalized, and presented to the Nymphery where a formal vote shall be conducted to accept or deny.
 
 This document could not possibly account for or predict all A.C.R.O.N.Y.M. issues that may arise. As such it cannot reasonably govern those issues. Instead it is suggested that the voting body of A.C.R.O.N.Y.M. work together with empathy and understanding, that disagreements be settled in a civil manner, and above all else that the core values of Nerdiness and diversity of experience be upheld in whatever decision is made.
 
@@ -160,10 +160,9 @@ Authorship of an amendment requires a GitHub account, and access to A.C.R.O.N.Y.
 Authorship of any proposed amendment must be written in a specific format. Improper formatting will result in the Council of Nomes requesting a rewrite.
 
 ##### Article 3 Section 1 Subsection 1 Clause 1; Amendment Proposition
-To propose an amendment you must create a git branch of the main branch of the legislation repository, where you edit the running constitution.
-Next, you open a pull request with all of the edits that your amendment details.
+To propose an amendment you must create a git branch of the main branch of the legislation repository, where you edit the running constitution. Next, you must open a pull request with all of the edits that your amendment details.
+Then you must contact a member of the Council of Nomes and present your amendment. A congregation of the Council of Nomes is called to conduct a review, and then a yea, neh vote.
 
-Then contact a member of the Council of Nomes and present your amendment. A congregation of the Council of Nomes is called to conduct a review, and then a yea, neh vote. 
 
 ##### Article 3 Section 1 Subsection 1 Clause 2; Review 
 The purpose of the review is to have a Nymph present the amendment in a broad sense to the Council of Nomes, and subsequently allow the Council of Nomes to analyze it in detail.
@@ -173,7 +172,7 @@ During the review the original author(s) of the amendment should be present to p
 If, during the review, the Council of Nomes finds that the amendment was written in an improper format, then it must request the author edit the document to conform with the following outlined below.
 
 ##### Article 3 Section 1 Subsection 1 Clause 3; Vote
-If the vote passes with at least sixty six percent of the Council of Nomes voting affirmatively, then the amendment is enacted upon the Constitution of Nerdiness.
+If the vote passes with at least eighty percent of the Council of Nomes voting affirmatively, then the amendment is enacted upon the Constitution of Nerdiness.
 
 
 #### Article 3 Section 1 Subsection 2; Formatting
