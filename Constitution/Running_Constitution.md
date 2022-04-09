@@ -76,7 +76,8 @@ The Scribe is expected to keep minutes of all ACRONYM meetings and is the design
 The Scribe is to act as an advisor to the President and the Council on matters of the Constitution and otherwise.
 ## Article 3; Amendment Process
 ### Article 3 Section 1; Bill Proposition
-Through a bill proposed to the Council of Nomes an amendment can be made to the Constitution of Nerdiness. Said amendment will be voted on by the Council of Nomes, the bill will be passed if there is a majority of the Nomes. However if it is not voted in by at least 85% then the bill will be passed on to the Nymphs. Then the Nymphs will vote for or against the bill. Finally the president can veto the vote for the bill.
+Through a bill proposed to the Council of Nomes an amendment can be made to the Constitution of Nerdiness. Said amendment will be voted on by the Council of Nomes, the bill will be passed if 80% of Nomes vote in favor. However if it is not voted in by at least 80%, then the bill will be passed on to the Nymphs. Then the Nymphs will vote for or against the bill, requiring a simple majority to pass. Finally the president can veto the vote for the bill.
+
 
 ### Article 3 Section 2; Authoring
 Any proposed bill to be presented to the Council of Nomes must be written in a specific format. Then the bill will be presented to a Nome to be proposed to the Council. When the bill is presented the original author should be present. However if they are unable to attend they will be asked to make a statement to send to the council, or a representative that they can send in to represent themselves to the Council.
