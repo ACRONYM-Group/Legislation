@@ -31,10 +31,11 @@ This document could not possibly account for or predict all future issues that m
 
 
 ### Article 1 Section 3; Who
+A.C.R.O.N.Y.M. is a Clever Regiment of Nerdy Young Mammals. <br>
 To add a new member to A.C.R.O.N.Y.M there must be a ⅔ majority of the Nymphs and then a unanimous vote of the Nomes. If this vote is passed, then the member is added to the nymphery.
 
 #### Article 1 Section 3 Subsection 1
-An application to speak in front of the ACRONYM group must not be negated by race, gender, ethnicity, or age. If we accept a female to the group we will change the acronym of A.C.R.O.N.Y.M to A Corrupt Regimen Of Nerdy Young Mammals.
+An application to speak in front of the ACRONYM group must not be negated by race, gender, ethnicity, or age.
 
 ## Article 2; Duties of the Office of President
 ### Article 2 Section 1; Powers
