@@ -3,23 +3,23 @@
 ## <center>Preamble</center>
 
 <center>
-We are founded upon the idea that a nerd with expertise in but one subject will fail to see the world with the same clarity that a group with many interests can, and together we can conceive of and perfect ideas through teamwork, and differing proficiencies.
+We are founded upon the idea that a nerd with expertise in but one subject will fail to see the world with the same clarity that a group with many interests can, and together we can conceive of and perfect ideas through synergistic methedologies.
 </center>
 
 ## Article 1; Structure
 ### Article 1 Section 1; A.C.R.O.N.Y.M.
-A.C.R.O.N.Y.M. is a syndicate that is built to promote the interests of Nerdiness.
-All structure and operations of A.C.R.O.N.Y.M. are defined by this document and any referenced documents, which are all to be stored together in a github repository.
+A.C.R.O.N.Y.M. is a syndicate dedicated to promoting the interests of Nerdiness.
+All structure and operations of A.C.R.O.N.Y.M. are defined by this document and any referenced documents, which are all to be stored together in a singular github repository owned by an account accessible to at least one (1) of the members of the Council of Nomes.
 
 #### Article 1 Section 1 Subsection 1; Essence
-Nerdiness is the quality of being obsessively interested in a subject, especially science, technology, engineering, art, or mathematics.
+Nerdiness is the quality of being obsessively interested in, and passionate for a subject, especially science, technology, engineering, art, or mathematics.
 
 #### Article 1 Section 1 Subsection 2; Mission
 A.C.R.O.N.Y.M. is designed to be a wholesome space that like-minded individuals can connect and engage with each other in subjects that they are enthusiastic about.
 
 
 ### Article 1 Section 2; The Nymphery
-The membership of A.C.R.O.N.Y.M. is the Nymphery, and every member of A.C.R.O.N.Y.M. is a Nymph, regardless of any other office or role they hold within the organization.
+A member of A.C.R.O.N.Y.M. is a Nymph, and the membership of A.C.R.O.N.Y.M. is the Nymphery. Regardless of any other office or role you hold within the organization, you will always be a Nymph.
 
 #### Article 1 Section 2 Subsection 1; Rights
 
@@ -42,7 +42,7 @@ A Nymph may propose bills that amend the Constitution of Nerdiness.
 
 A Nymph may request that the President of A.C.R.O.N.Y.M. congregate the Council of Nomes for any reason. 
 
-A Nymph may vote in elections for the Council of Nomes, and elections for the office of President, or for any other reason outlined below.
+A Nymph may vote in elections for the Council of Nomes, and elections for the office of President, and any other election or vote otherwise specified in this document, or any referenced.
 
 ##### Article 1 Section 2 Subsection 1 Clause 3; Authorizations
 All Nymphs must be given access to the private A.C.R.O.N.Y.M. legislation github repository upon their own request to a member of the Council of Nomes.
@@ -50,7 +50,7 @@ All Nymphs must be given access to the private A.C.R.O.N.Y.M. legislation github
 #### Article 1 Section 2 Subsection 2; Responsibilities
 Nymphs are required to attend one monthly meeting yearly, or they will lose their status as a Nymph.
 
-In any A.C.R.O.N.Y.M. media or communication channels:
+In any official A.C.R.O.N.Y.M. media or communication channels:
 * Never use slurs or other derogatory terminology
 * Censor the usage of profane words higher than a mild level as defined in the Ofcom's ranking of swear words
 * Be your best nerdy self.
@@ -58,9 +58,11 @@ In any A.C.R.O.N.Y.M. media or communication channels:
 
 ### Article 1 Section 3; The Council of Nomes
 Members of the Council of Nomes maintain the order of the organization. The Council of Nomes consists of a number of Nymphs equal to log base two of the total count of the Nymphery, rounded down to the nearest whole number.
+One member of the Council of Nomes is to have control of the GitHub account that owns the A.C.R.O.N.Y.M. private GitHub legilsation repository.
 
 #### Article 1 Section 3 Subsection 1; Powers
 A Member of the Council of Nomes may call for a meeting of A.C.R.O.N.Y.M. for any purpose.
+The ability to vote on decisions being made during a congregation of the Council of Nomes.
 
 #### Article 1 Section 3 Subsection 2; Responsibilities
 ##### Article 1 Section 3 Subsection 2 Clause 1; Congregation
@@ -68,12 +70,17 @@ Members of the Council of Nomes are required to:
 * Participate in all congregations
 * Vote in all congregations when necessary
 
-##### Article 1 Section 3 Subsection 2 Clause 1; Legislation
+##### Article 1 Section 3 Subsection 2 Clause 2; GitHub Ownership
+Every session after a new Council of Nomes is elected into office, should there be no member of the council of Nomes that controls the private repository, a congregation of the Council of Nomes must be organized within a week after the election. During this congregation of the Council of Nomes the Nymph that currently has ownership of the account must attend, so that they can hand control over to a member of the Council of the Nomes that is decided by an internal majority vote with infinite repeated runoff votes should there be an equal tie between multiple members of the council of Nomes.
+
+#### Article 1 Section 3 Subsection 3; Legislation
 Members of the Council of Nomes must schedule a congregation of the Council of Nomes when any Nymph presents an amendment to the Constitution of Nerdiness such that the congregation occurs within a week of being contacted.
 
 Members of the Council of Nomes must scrutinize all amendments presented to them and analyzed to their fullest ability to keep the constitution in good order. Nomes must also interact with authors and presenters of amendments such that they can give feedback that improves the quality of amendments.
 
 A member of the Council of Nomes must enact all amendments in the manner detailed in Article 3 Section 1 Subsection directly after every amendment passes a vote of the Council of the Nomes.
+
+The member of the Council of Nomes that has control of the account that owns the A.C.R.O.N.Y.M. private legislation github repository must authorize any Nymph that requests access to the repository to view the repository, and create pull requests such that they can propose bills and amendments.
 
 ###  Article 1 Section 4; The Office of President
 The President of A.C.R.O.N.Y.M. is a singular Nymph who is responsible for picking a single A.C.R.O.N.Y.M. for the organization out of many.
