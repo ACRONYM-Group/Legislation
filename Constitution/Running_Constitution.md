@@ -3,7 +3,7 @@
 ## <center>Preamble</center>
 
 <center>
-We are founded upon the idea that a nerd with expertise in but one subject will fail to see the world with the same clarity that a group with many interests can, and together we can conceive of and perfect ideas through synergistic methedologies.
+We are founded upon the idea that a nerd with expertise in but one subject will fail to see the world with the same clarity that a group with many interests can, and together we can conceive of and perfect ideas through synergistic methodologies.
 </center>
 
 ## Article 1; Structure
@@ -58,7 +58,7 @@ In any official A.C.R.O.N.Y.M. media or communication channels:
 
 ### Article 1 Section 3; The Council of Nomes
 Members of the Council of Nomes maintain the order of the organization. The Council of Nomes consists of a number of Nymphs equal to log base two of the total count of the Nymphery, rounded down to the nearest whole number.
-One member of the Council of Nomes is to have control of the GitHub account that owns the A.C.R.O.N.Y.M. private GitHub legilsation repository.
+One member of the Council of Nomes is to have control of the GitHub account that owns the A.C.R.O.N.Y.M. private GitHub legislation repository.
 
 #### Article 1 Section 3 Subsection 1; Powers
 A Member of the Council of Nomes may call for a meeting of A.C.R.O.N.Y.M. for any purpose.
@@ -76,11 +76,11 @@ Every session after a new Council of Nomes is elected into office, should there 
 #### Article 1 Section 3 Subsection 3; Legislation
 Members of the Council of Nomes must schedule a congregation of the Council of Nomes when any Nymph presents an amendment to the Constitution of Nerdiness such that the congregation occurs within a week of being contacted.
 
-Members of the Council of Nomes must scrutinize all amendments presented to them and analyzed to their fullest ability to keep the constitution in good order. Nomes must also interact with authors and presenters of amendments such that they can give feedback that improves the quality of amendments.
+Members of the Council of Nomes must scrutinize all amendments presented to them and analyze to their fullest ability to keep the constitution in good order. Nomes must also interact with authors and presenters of amendments such that they can give feedback that improves the quality of amendments.
 
 A member of the Council of Nomes must enact all amendments in the manner detailed in Article 3 Section 1 Subsection directly after every amendment passes a vote of the Council of the Nomes.
 
-The member of the Council of Nomes that has control of the account that owns the A.C.R.O.N.Y.M. private legislation github repository must authorize any Nymph that requests access to the repository to view the repository, and create pull requests such that they can propose bills and amendments.
+The member of the Council of Nomes that has control of the account that owns the A.C.R.O.N.Y.M. GitHub Account must authorize any Nymph that requests access to the repository to view the private legislation repository, and create pull requests such that they can propose bills and amendments.
 
 ###  Article 1 Section 4; The Office of President
 The President of A.C.R.O.N.Y.M. is a singular Nymph who is responsible for picking a single A.C.R.O.N.Y.M. for the organization out of many.
@@ -207,3 +207,5 @@ This section should also include the outcome of the vote that enacted the bill.
 
 #### Article 3 Section 1 Subsection 3; Enactment
 To enact an amendment a member of the Council of Nomes must merge the pull request created during the authorship of the amendment, and then add the accompanying document to the GitHub repository. 
+
+
