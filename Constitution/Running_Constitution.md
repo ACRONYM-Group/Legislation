@@ -52,7 +52,7 @@ Nymphs are required to attend one monthly meeting yearly, or they will lose thei
 
 In any official A.C.R.O.N.Y.M. media or communication channels:
 * Never use slurs or other derogatory terminology
-* Censor the usage of profane words higher than a mild level as defined in the Ofcom's ranking of swear words
+* Censor the usage of swear words
 * Be your best nerdy self.
 
 
