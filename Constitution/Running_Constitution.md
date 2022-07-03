@@ -83,7 +83,7 @@ A member of the Council of Nomes must enact all amendments in the manner detaile
 The member of the Council of Nomes that has control of the account that owns the A.C.R.O.N.Y.M. GitHub Account must authorize any Nymph that requests access to the repository to view the private legislation repository, and create pull requests such that they can propose bills and amendments.
 
 ###  Article 1 Section 4; The Office of President
-The President of A.C.R.O.N.Y.M. is a singular Nymph who is responsible for picking a single A.C.R.O.N.Y.M. for the organization out of many.
+The President of A.C.R.O.N.Y.M. is a custodian of creation and progress. They organize and support new projects and events for the sake of bonding and growth.
 
 #### Article 1 Section 4 Subsection 1; Powers
 ##### Article 1 Section 4 Subsection 1 Clause 1; Vetoes
@@ -103,7 +103,7 @@ The President of A.C.R.O.N.Y.M. may appoint any Nymph to an office within the Pr
 #### Article 1 Section 4 Subsection 2; Responsibilities
 ##### Article 1 Section 4 Subsection 2 Clause 1; Planning Meetings
 On the first Saturday of every month the President of A.C.R.O.N.Y.M. is required to publically announce to the Nymphery that there is an upcoming meeting planned for the second Saturday of that month. The announcement must include the following:
-* The date in the format [MM/DD/YY], and in the format [Month D, Yr]
+* The date in the format [MM/DD/YY], and in the format [Month Day, Yearr]
 * A headcount to determine if a majority of the Nymphery can attend
 * A basic description of the goal of the meeting. 
 
