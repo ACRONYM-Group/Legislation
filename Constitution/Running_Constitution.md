@@ -3,7 +3,7 @@
 ## <center>Preamble</center>
 
 <center>
-We are founded upon the idea that a nerd with expertise in but one subject will fail to see the world with the same clarity that a group with many interests can, and together we can conceive of and perfect ideas through synergistic methodologies.
+We are founded upon the idea that a nerd with expertise in but one subject will fail to see the world with the same clarity that a group with many interests can, and together we can conceive of and perfect ideas through teamwork, and differing proficiencies.
 </center>
 
 ## Article 1; Structure
