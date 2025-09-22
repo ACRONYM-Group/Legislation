@@ -91,3 +91,7 @@ At the end of the bill document there should be a section that will detail who a
 When a bill is written it should contain a short description of the bill after the phrase “The following is proposed to the Council of Nomes.” Then the text of the bill should be formatted as follows: new verbiage will be denoted by underlined text, text meant to remain as it is normally formatted, and text to be deleted is struck through.
 
 All bills should be written with the same style as the Constitution. All text belonging to the central text of the bill should be in Times New Roman, all other text in the bill (notes, the headers, extra information) should be in an eleven point monospace font.
+
+#### Article 4
+- Killing yourself is not okay
+- Killing civilians is okay
