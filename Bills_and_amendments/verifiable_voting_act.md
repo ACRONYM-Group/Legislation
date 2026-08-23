@@ -54,9 +54,9 @@ If during the course of the presidential election, there is a tie that results i
 
 ---
 
-Proposed By:     Ethan D. Hunt (President)
-Proposal Date:   Aug 22, 2026
-Bill Name:       Verifiable Voting Act
-Review Date:     [pending]
-Outcome:         [pending]
-Enactment Date:  [pending]
+Proposed By:     Ethan D. Hunt (President) 
+Proposal Date:   Aug 22, 2026 
+Bill Name:       Verifiable Voting Act 
+Review Date:     [pending] 
+Outcome:         [pending] 
+Enactment Date:  [pending] 
